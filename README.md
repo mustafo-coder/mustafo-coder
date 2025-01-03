@@ -3,15 +3,15 @@ Hello! 👋
 
 I’m Mustafa Shaydullayev, a passionate Frontend Developer with a focus on creating intuitive and efficient user experiences. 🚀 Since 2019, I’ve been working on modern web applications, blending creativity with cutting-edge technologies.
 
-Professional Highlights:
-🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.
-⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.
-🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity.
-🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact.
-My Approach:
-🔍 Detail-oriented and committed to best practices.
-📈 Continuously learning and adapting to new technologies.
-🤝 Collaboration-focused, ensuring seamless teamwork.
+Professional Highlights:<br/>
+🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.<br/>
+⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.<br/>
+🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity.<br/>
+🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact.<br/>
+My Approach:<br/>
+🔍 Detail-oriented and committed to best practices.<br/>
+📈 Continuously learning and adapting to new technologies.<br/>
+🤝 Collaboration-focused, ensuring seamless teamwork.<br/>
 
 Let’s connect and build something amazing together! 🚀
 

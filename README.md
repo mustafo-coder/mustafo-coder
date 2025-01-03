@@ -8,6 +8,7 @@ Professional Highlights:<br/>
 ⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.<br/>
 🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity.<br/>
 🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact.<br/>
+
 My Approach:<br/>
 🔍 Detail-oriented and committed to best practices.<br/>
 📈 Continuously learning and adapting to new technologies.<br/>

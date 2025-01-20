@@ -33,5 +33,7 @@ Let’s connect and build something amazing together! 🚀
 ---
 [![](https://visitcount.itsvg.in/api?id=mustafo-coder&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafo-coder&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://komarev.com/ghpvc/?username=mustafo-coder&color=green)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

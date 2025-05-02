@@ -64,5 +64,5 @@ If you need a responsible, dedicated, and genuinely developing frontend develope
 ---
 [![](https://visitcount.itsvg.in/api?id=mustafo-coder&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=mustafo-coder&color=green)
+![](https://komarev.com/ghpvc/?username=mustafo-coder&color=cyan)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

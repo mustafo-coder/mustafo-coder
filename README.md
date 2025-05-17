@@ -1,6 +1,6 @@
 # 👋 Hello! I am Mustafo Shaydullayev
 
-## 🎯 Frontend Developer | React & Next.js Specialist | Mentor
+## 🎯 Frontend Developer | React & Next.js Specialist
 
 ### 💼 Experience and Professional Orientation
 

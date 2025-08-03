@@ -4,9 +4,7 @@
 
 ### 💼 Experience and Professional Orientation
 
-I have been working in the IT industry since 2019 and today I specialize in creating powerful frontend solutions. I have extensive experience working with technologies such as React, Next.js, TypeScript, Redux Toolkit, RTK Query, Ant Design.
-
-As a mentor at Najot Ta’lim, I have taught hundreds of students modern frontend technologies. At the same time, I have worked with Origin Digital and other companies, where I developed reliable and effective web applications that meet the needs of real customers.
+I have been working in the IT industry since 2019 and today I specialize in creating powerful frontend solutions. I have extensive experience working with technologies such as React.js, Next.js, Three.js, WebGL, Framer motion, TypeScript, Redux Toolkit, RTK Query.
 
 ---
 
